@@ -1,0 +1,7 @@
+REACT_APP_ROWS=17
+REACT_APP_COLUMNS=33
+
+* take random row from 0 to 17 and random col from 0 to 33 and return a cell
+* display lollipop.svg on this cell
+* when logo goes over the prize, add time and points
+* number of points will show instead of the lollipop.svg for few second at the same cell

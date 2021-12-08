@@ -1,0 +1,108 @@
+.root {
+    flex: 1;
+    height: 100%;
+    position: relative;
+}
+
+.canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+/* 
+.gamepad {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 25%;
+} */
+
+/* .touchButtons {
+   position: absolute;
+    justify-content: center;
+    align-items: center;
+    height: 160px;
+    bottom: 0;
+    right: 50%; 
+    margin: auto;
+    opacity: 0.7; 
+} */
+
+.gamepad {
+  position: fixed;
+  width: 260px;
+  height: 180px;
+  text-align: center;
+  line-height: 260px;
+  color: white;
+  border-right: 10px solid darken(grey, 20);
+  border-bottom: 10px solid darken(grey, 20);
+  border-left: 10px solid darken(grey, 15);
+  border-top: 10px solid darken(grey, 10);  
+  display: inline-block;
+  margin: 10px auto;
+  /* padding: 20px; */
+  opacity: 0.4;
+  right: 42%;
+  bottom: 0;
+
+}
+
+.arrowUp {
+    /* position:relative; */
+    position: absolute;
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 5px;
+  }
+
+  .arrowUp:active{background-color:gray;}
+
+
+  .arrowLeft {
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 5px 20px;
+  }
+
+  .arrowLeft:active{background-color:gray;}
+
+  .arrowRight {
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 5px 20px;
+  }
+
+  .arrowRight:active{background-color:gray;}
+
+  .arrowDown {
+    background-color: lightgray;
+    border: 1px solid lightgray;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 5px;
+  }
+
+  .arrowDown:active{background-color:gray;}
+
+  /* .startBtn {
+    font-family: "Joystix", sans-serif;
+    background-color: white;
+    font-size: 16px;
+    margin: 30px;
+    width: 100px;
+    border: 2px solid yellow;
+    z-index: 200;
+    position: absolute;
+    left: 19%;
+    top: 65%;
+  } */
