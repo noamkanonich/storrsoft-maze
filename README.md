@@ -18,4 +18,7 @@ Additionaly, the board game was developed using canvas graphics.
 4. Open your internet browser and enter the following link - "http://localhost:3000/.
 
 # Screenshots
+![Maze1](https://user-images.githubusercontent.com/55742997/145704511-48542617-25d0-49f4-94a2-31989a35fe4e.jpg)
+
+![Maze2](https://user-images.githubusercontent.com/55742997/145704507-e22d4dda-38a2-4bd4-8511-e96cdcef4829.jpg)
 
