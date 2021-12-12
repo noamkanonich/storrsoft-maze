@@ -22,3 +22,4 @@ Additionaly, the board game was developed using canvas graphics.
 
 ![Maze2](https://user-images.githubusercontent.com/55742997/145704507-e22d4dda-38a2-4bd4-8511-e96cdcef4829.jpg)
 
+# Live Example
